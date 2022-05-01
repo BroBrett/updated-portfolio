@@ -1,0 +1,26 @@
+:root {
+    --yellow: #ffc107;
+    --light-yellow: #f4cf5e;
+}
+
+body {
+    background-color: grey;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    color: var(--light-yellow);
+}
+
+#selfie {
+    width: 350px;
+    height: 350px;
+}
+
+#aboutMe {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
