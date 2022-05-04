@@ -17,10 +17,56 @@ header {
 #selfie {
     width: 350px;
     height: 350px;
+    padding-bottom: 10px;
 }
 
-#aboutMe {
+#aboutMeInfo {
     font-size: 20px;
     font-weight: 500;
     color: black;
+    
+}
+
+#marketTalk {
+    width: 1000px;
+    height: 600px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+h4 {
+    padding-top: 30px;
+}
+
+#webDeveloperWork {
+    padding-top: 40px;
+}
+
+#marketTalkInfo {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+#workSchedularTitle {
+    padding-bottom: 20px;
+    /* margin-left: 125px; */
+}
+
+#workSchedularScreenshot {
+    width: 500px;
+    height: 300px;
+    padding-bottom: 20px;
+}
+
+#workSchedularInfo {
+    /* margin-right: 795px; */
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+#githubContact {
+    margin-left: 620px;
+    margin-bottom: 50px;
 }
