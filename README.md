@@ -42,3 +42,33 @@ Go to <a href="https://brobrett.github.io/updated-portfolio/" alt="Brett's updat
 
 [Screemshot3] Work Day Schedular webpage and contact links for Github and email contact.
 <img src="./images/updated-portfolio-screenshot3.png">
+
+<br>
+
+## Credits
+
+- Thank you to BCS and my instrcutors for helping me in office hours
+
+<br>
+
+## License
+
+- MIT License - copyright (c) Brett Hockridge
+
+<br>
+
+## How to Contribute
+
+Feel free to email me via email link on webpage to ask to contribute
+
+<br>
+
+## Github URL
+
+Click <a href="https://github.com/BroBrett/updated-portfolio" alt="Brett's updated portfolio github link">here</a> to view Updated Portfolio github link.
+
+<br>
+
+## Webpage URL
+
+Click <a href="https://brobrett.github.io/updated-portfolio/" alt="Brett's updated portfolio webpage">here</a> to view Updated Portfolio webpage.
